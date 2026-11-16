@@ -1,0 +1,10 @@
+name: Feature request
+description: Request a new feature.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: missing
+    attributes:
+      label: Which feature is missing from Shaymin Editor?
+    validations:
+      required: true
